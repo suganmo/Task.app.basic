@@ -8,8 +8,8 @@
 * Ruby
 * Git
 * Heroku
-* Git(HTTPSからSSH通信へ変更!)
-* origin chenge
+* Git(HTTPSからSSH通信へ変更)
+* 2回目
 
 ```
 $ git clone https://github.com/sample-874/sample-app.git
