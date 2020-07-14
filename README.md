@@ -9,7 +9,7 @@
 * Git
 * Heroku
 * Git(HTTPSからSSH通信へ変更)
-* 5回目
+* 鍵２
 
 ```
 $ git clone https://github.com/sample-874/sample-app.git
